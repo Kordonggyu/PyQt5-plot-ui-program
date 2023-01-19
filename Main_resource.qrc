@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/split (1).png</file>
+    <file>icons/split2.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/x-mark.png</file>
+    <file>icons/free-icon-line-chart-179121.png</file>
+    <file>icons/substract.png</file>
+    <file>icons/free-icon-play-button-134186.png</file>
+    <file>icons/free-icon-repeat-134180.png</file>
+    <file>icons/grid.png</file>
+    <file>icons/free-icon-expand-134195.png</file>
+    <file>icons/free-icon-folder-149334.png</file>
+    <file>icons/free-icon-garbage-149343.png</file>
+  </qresource>
+</RCC>
