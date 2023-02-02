@@ -9,7 +9,7 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 * QtDisigner 5.15
 * IDE : VisualStudioCode
 ### 주요 기능
-#### FileLoad
+#### * FileLoad
 * csv파일을 선택하면 파일의 이름과 csv파일 내부의 데이터 목록이 TreeWidget에 표시됩니다.
 #### GraphPlot
 * TreeWidget의 데이터 목록을 Drag하여 우측 GraphPlot에 Drop하면 그래프가 표시됩니다.
