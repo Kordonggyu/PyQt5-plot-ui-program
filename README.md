@@ -26,3 +26,5 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 * 대용량 데이터 사용
 * GraphPlot 초기화
 * CheckBox On/Off를 활용해 트리위젯에서 데이터 목록의 Value 표시
+### License
+* MIT License
