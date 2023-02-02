@@ -9,10 +9,8 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 * QtDisigner 5.15
 * IDE : VisualStudioCode
 ### 주요 기능
-1. csv파일 로드
-2. graphwidget에 drag/drop
-3. graphplot imagefile로 저장
-4. playbutton으로 여러개의 그래프 값 비교
+#### FileLoad
+* csv파일을 선택하면 파일의 이름과 csv파일 내부의 데이터 목록이 TreeWidget에 표시됩니다.
 ### 진행 중
 1. graph split
 2. 나누어진 그래프들끼리 동기화(playbutton)
