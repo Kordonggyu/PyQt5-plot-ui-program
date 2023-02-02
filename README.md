@@ -8,4 +8,9 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 
 * PyQt5
 
+* QtDisigner 5.15
+
 * IDE : VisualStudioCode
+### 주요 기능
+* csv파일 로드
+* 
