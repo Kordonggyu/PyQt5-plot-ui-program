@@ -18,3 +18,6 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 2. 나누어진 그래프들끼리 동기화(playbutton)
 3. tabwidget
 4. graph 삭제
+5. Infiniteline / Slider 수동 이동
+6. Checkbox On/Off 트리위젯에서 Value 표시
+7. 대용량 데이터 그래프 표시
