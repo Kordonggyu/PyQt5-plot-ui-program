@@ -1,1 +1,0 @@
-# PyQt5-plot-ui-program
