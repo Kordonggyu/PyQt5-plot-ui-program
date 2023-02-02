@@ -19,7 +19,10 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 * 반복재생/일시정지 기능을 사용할 수 있습니다.
 * 표현된 GraphPlot을 이미지파일로 저장할 수 있습니다.
 ### 진행 중인 기능
-#### TabWidget
-#### GraphSplit
-
-
+* TabWidget
+* Graph Split
+* Split Graph 동기화 (여러개로 나누어진 그래프들의 값들을 실시간으로 비교)
+* 시간축/재생바 수동 이동
+* 대용량 데이터 사용
+* GraphPlot 초기화
+* CheckBox On/Off를 활용해 트리위젯에서 데이터 목록의 Value 표시
