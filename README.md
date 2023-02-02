@@ -19,7 +19,7 @@ CSV파일의 데이터를 읽고 그래프로 표현하여 분석하는 프로�
 * 반복재생/일시정지 기능을 사용할 수 있습니다.
 * 표현된 GraphPlot을 이미지파일로 저장할 수 있습니다.
 ### 실행 화면
-<img src = "https://user-images.githubusercontent.com/90897710/216258998-bc75d3bc-eaea-452d-907d-178e375716cf.gif">{: width="300" height="300"}
+<img src = "https://user-images.githubusercontent.com/90897710/216258998-bc75d3bc-eaea-452d-907d-178e375716cf.gif" width="300" height="300"/>
 ### 진행 중인 기능
 * TabWidget
 * Graph Split
